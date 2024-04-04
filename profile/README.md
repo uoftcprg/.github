@@ -4,7 +4,7 @@ Since its formation, the **University of Toronto Computer Poker Student Research
 
 ## Software
 
-Our group developed various open-source software projects related to poker, some of which have established widespread use in the computer poker community as the de facto software solution. Their usages range from poker game simulation, hand evaluation, and table management, to tournament management. Our online poker game platform LibrePoker, is used by the **University of Toronto Poker Club** to host various online events.
+Our group developed various open-source software projects related to poker, some of which have established widespread use in the computer poker community as the de facto software solution. Their usages range from poker game simulation, hand evaluation, and table management, to tournament management.
 
 - PokerKit: An open-source Python library for poker game simulations and hand evaluations
   - GitHub: https://github.com/uoftcprg/pokerkit
