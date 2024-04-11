@@ -11,6 +11,8 @@ Our group developed various open-source software projects related to poker, some
   - Publication: https://doi.org/10.1109/TG.2023.3325637
 - Cardroom: A Django application for poker tournament and table management
   - GitHub: https://github.com/uoftcprg/cardroom
+- Poker Hand History File Format Specification
+  - GitHub: https://github.com/uoftcprg/phh-std
 
 ## Datasets
 
