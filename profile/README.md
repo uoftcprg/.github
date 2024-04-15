@@ -20,7 +20,7 @@ Our group developed various open-source software projects related to poker, some
 
 We have created some open-source poker datasets available for the public to use. To contribute, please create a pull request on the respective GitHub repositories.
 
-- Poker Hand Strengths: A dataset of poker hand histories
+- Poker Hand Histories: A dataset of poker hand histories
   - GitHub: https://github.com/uoftcprg/phh-dataset
   - Zenodo: https://zenodo.org/doi/10.5281/zenodo.10797026
 - Poker Hand Strengths: A dataset of poker hand strengths
