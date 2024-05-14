@@ -13,8 +13,6 @@ Our group developed various open-source software projects related to poker, some
   - GitHub: https://github.com/uoftcprg/cardroom
 - Poker Hand History File Format Specification
   - GitHub: https://github.com/uoftcprg/phh-std
-- PokerCMD: Command line tools for poker-related calculations
-  - GitHub: https://github.com/uoftcprg/pokercmd
 
 ## Datasets
 
