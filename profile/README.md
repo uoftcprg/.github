@@ -16,7 +16,7 @@ Our group developed various open-source software projects related to poker, some
 - PokerCMD: Command line tools for poker-related calculations
   - GitHub: https://github.com/uoftcprg/pokercmd
 - PRiVaTe: Python implementations of variance reduction techniques for extensive-form games
-  - https://github.com/uoftcprg/private
+  - GitHub: https://github.com/uoftcprg/private
 
 ## Datasets
 
