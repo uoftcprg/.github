@@ -15,6 +15,8 @@ Our group developed various open-source software projects related to poker, some
   - GitHub: https://github.com/uoftcprg/phh-std
 - PokerCMD: Command line tools for poker-related calculations
   - GitHub: https://github.com/uoftcprg/pokercmd
+- PRiVaTe: Python implementations of variance reduction techniques for extensive-form games
+  - https://github.com/uoftcprg/private
 
 ## Datasets
 
@@ -26,6 +28,8 @@ We have created some open-source poker datasets available for the public to use.
 - Poker Hand Strengths: A dataset of poker hand strengths
   - GitHub: https://github.com/uoftcprg/phs-dataset
   - Zenodo: https://zenodo.org/doi/10.5281/zenodo.10796885
+- Poker Statistical Analyses: A dataset of poker statistical analysis calculations
+  - GitHub: https://github.com/uoftcprg/psa-dataset
 
 ## Websites
 
