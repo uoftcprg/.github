@@ -13,6 +13,7 @@ Our group developed various open-source software projects related to poker, some
   - GitHub: https://github.com/uoftcprg/cardroom
 - Poker Hand History File Format Specification
   - GitHub: https://github.com/uoftcprg/phh-std
+  - Preprint: https://doi.org/10.48550/arXiv.2312.11753
 - PokerCMD: Command line tools for poker-related calculations
   - GitHub: https://github.com/uoftcprg/pokercmd
 - PVAT: Python implementations of variance reduction techniques for extensive-form games
